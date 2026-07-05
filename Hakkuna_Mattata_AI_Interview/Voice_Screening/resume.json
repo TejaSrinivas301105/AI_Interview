@@ -1,0 +1,65 @@
+{
+  "targetRole": "Senior Full Stack Developer",
+  "personalInfo": {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "+1-234-567-8900",
+    "location": "San Francisco, CA",
+    "linkedin": "linkedin.com/in/johndoe",
+    "github": "github.com/johndoe"
+  },
+  "summary": "Experienced software engineer with 5+ years in full-stack development, specializing in cloud technologies and scalable systems.",
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "Tech Corp",
+      "location": "San Francisco, CA",
+      "startDate": "2021-06",
+      "endDate": "Present",
+      "responsibilities": [
+        "Led development of microservices architecture serving 1M+ users",
+        "Reduced API response time by 40% through optimization",
+        "Mentored team of 5 junior developers"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "StartUp Inc",
+      "location": "Remote",
+      "startDate": "2019-03",
+      "endDate": "2021-05",
+      "responsibilities": [
+        "Built RESTful APIs using Node.js and Python",
+        "Implemented CI/CD pipelines with AWS services",
+        "Collaborated with cross-functional teams"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California",
+      "graduationYear": "2019",
+      "gpa": "3.8"
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "JavaScript", "Java", "Go"],
+    "frameworks": ["React", "Node.js", "Django", "Spring Boot"],
+    "cloud": ["AWS", "Azure", "Docker", "Kubernetes"],
+    "databases": ["PostgreSQL", "MongoDB", "Redis"],
+    "tools": ["Git", "Jenkins", "Terraform"]
+  },
+  "projects": [
+    {
+      "name": "E-commerce Platform",
+      "description": "Built scalable e-commerce solution with payment integration",
+      "technologies": ["React", "Node.js", "PostgreSQL", "AWS"],
+      "url": "github.com/johndoe/ecommerce"
+    }
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect",
+    "Certified Kubernetes Administrator"
+  ]
+}
